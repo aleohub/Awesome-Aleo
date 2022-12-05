@@ -64,7 +64,8 @@ Mining Pool
 - [1to.sh](https://1to.sh/) 
 - [Hpool](https://www.hpool.in/) 
 - [6block](https://zk.work) 
-- [Haruka](https://hamp.app/) 
+- [Haruka](https://hamp.app/)
+- [ZKMatrix](https://pool.zkmatrix.io/)
 
 ### Zero Knowledge Learning
 
